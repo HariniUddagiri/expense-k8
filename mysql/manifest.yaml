@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: harini/mysql:1.0.0
+        image: harini0107/mysql:1.0.0
 ---
 kind: Service
 apiVersion: v1
